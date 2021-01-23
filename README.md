@@ -4,3 +4,7 @@ This a final project for c++ programing. Because of COVID-19, it's more safe to 
 
 ## video
 https://www.youtube.com/watch?v=i8133L-FTLk
+## image
+![image](https://github.com/LI-SUSTech/Computer-vision-gesture-recognition-human-computer-interaction/blob/main/image/gesture.png)
+![image](https://github.com/LI-SUSTech/Computer-vision-gesture-recognition-human-computer-interaction/blob/main/image/process.png)
+![image](https://github.com/LI-SUSTech/Computer-vision-gesture-recognition-human-computer-interaction/blob/main/image/image.png)
